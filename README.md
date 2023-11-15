@@ -1,4 +1,4 @@
-<h1 align='center'> Hey there, I’m Meghana 👋 </h1>
+<h1 align='center'> Hey there, I’m Meghana 👋🏻 </h1>
 <h3> About me: </h3>
 <p align='justify'>
   Dedicated, collaborative, curious and self-driven programmer with 5 years of experience in coding. Proficient in multiple programming languages, including Python and C++. Strong technical knowledge of CS fundamentals, data
