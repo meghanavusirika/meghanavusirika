@@ -8,7 +8,7 @@
 <h3> Skills: </h3>
 <p>- 📚 Computer Engineering Student @ University of Waterloo</p>
 <p style='display:inline-block;'>
-    - <img src="https://logowik.com/content/uploads/images/fiverr.jpg" width="20px" height="20px"> Offering Freelancing services in Fiverr</p>
+    - <img src="https://i.pinimg.com/originals/df/76/6b/df766b3355387132dc326d054babc347.png" width="20px" height="20px"> Offering Freelancing services in Fiverr</p>
 <p style='display:inline-block;'>
     - <img src="https://cdn4.iconfinder.com/data/icons/circle-web-and-programming/512/Website_and_programming_21-512.png" width="20px" height="20px"> Proficient in Front-end Web Development</p>
 <p>- 👩🏻‍💻 Proficient in Python, C++, SQL, HTML, CSS, Javascript, Azure Cloud Computing, Data Structures and Algorithms, Computer Networking, API Management and CS Fundamentals.</p>
