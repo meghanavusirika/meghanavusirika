@@ -9,7 +9,7 @@
 <p>- 📚 Computer Engineering Student @ University of Waterloo</p>
 <p>- 👩🏻‍💻 Offering Freelancing services in Fiverr</p>
 <p style='display:inline-block;'>
-    - <img src="https://static-00.iconduck.com/assets.00/web-development-icon-2048x1813-epx614v8.png" width="20px" height="20px"> Proficient in Front-end Web Development</p>
+    - <img src="https://cdn4.iconfinder.com/data/icons/circle-web-and-programming/512/Website_and_programming_21-512.png" width="20px" height="20px"> Proficient in Front-end Web Development</p>
 <p>- 👩🏻‍💻 Proficient in Python, C++, SQL, HTML, CSS, Javascript, Azure Cloud Computing, Data Structures and Algorithms, Computer Networking, API Management and CS Fundamentals.</p>
 <br>
 <p>
