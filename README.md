@@ -1,13 +1,15 @@
 <h1 align='center'> Hey there, I’m Meghana 👋🏻 </h1>
 <h3> About me: </h3>
 <p align='justify'>
-  Dedicated, collaborative, curious and self-driven programmer with 5 years of experience in coding. Proficient in multiple programming languages, including Python and C++. Strong technical knowledge of CS fundamentals, data
-  structures and algorithms. Ability to communicate technical problems and solutions and have strong problem-solving skills, commitment to continuous learning and excited to learn and develop my skills.
+  I am a dedicated, collaborative, curious, and self-driven programmer with 5 years of experience in coding. Proficient in multiple programming languages, including Python, C++, HTML, CSS, and Javascript, and databases like SQL. Strong technical knowledge in front-end web development, Azure cloud computing, operating systems (MacOS, Windows), CS fundamentals, data structures and algorithms, computer networking, and API management. Dedicatedly offering freelance services in Fiverr across a range of technical and non technical domains such as web development, logo design, IT support, and online coding classes. I have honed my skills by contributing to several academic and personal projects and by participating in several hackathons and coding workshops. I can communicate technical problems and solutions, have strong problem-solving skills, a commitment to continuous
+  learning, and am excited to learn and develop my skills.
 </p>
 <br>
 <h3> Skills: </h3>
 <p>- 📚 Computer Engineering Student @ University of Waterloo</p>
-<p>- 👩🏻‍💻 Proficient in Front-end Web Development</p>
+<p>- 👩🏻‍💻 Offering Freelancing services in Fiverr</p>
+<p style='display:inline-block;'>
+    - <img src="https://static-00.iconduck.com/assets.00/web-development-icon-2048x1813-epx614v8.png" width="20px" height="20px"> Proficient in Front-end Web Development</p>
 <p>- 👩🏻‍💻 Proficient in Python, C++, SQL, HTML, CSS, Javascript, Azure Cloud Computing, Data Structures and Algorithms, Computer Networking, API Management and CS Fundamentals.</p>
 <br>
 <p>
