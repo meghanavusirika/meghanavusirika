@@ -16,7 +16,7 @@
 <p>
   <h3>📫 How to reach me: </h3>
   <p>
-    - 💼 Linkedin: <a href="https://www.linkedin.com/in/venkata-meghana-reddy-vusirika-40b962277/"> https://www.linkedin.com/in/venkata-meghana-reddy-vusirika-40b962277/ </a>   
+     <a href="https://www.linkedin.com/in/meghanavusirika/">  💼 Linkedin: </a>   
 </p>
 
 <!---
