@@ -16,12 +16,7 @@
 <p>
   <h3>📫 How to reach me: </h3>
   <p>
-    - 💼 Linkedin: <a href="https://www.linkedin.com/in/venkata-meghana-reddy-vusirika-40b962277/"> https://www.linkedin.com/in/venkata-meghana-reddy-vusirika-40b962277/ </a>
-  </p>
-  <p style='display:inline-block;'>
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="20px" height="20px"> Instagram: <a href="https://www.instagram.com/vvmr_2006/"> 
-    https://www.instagram.com/vvmr_2006/ </a>
-  </p>    
+    - 💼 Linkedin: <a href="https://www.linkedin.com/in/venkata-meghana-reddy-vusirika-40b962277/"> https://www.linkedin.com/in/venkata-meghana-reddy-vusirika-40b962277/ </a>   
 </p>
 
 <!---
