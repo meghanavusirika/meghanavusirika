@@ -8,7 +8,7 @@
 <h3> Skills: </h3>
 <p>- 📚 Computer Engineering Student @ University of Waterloo</p>
 <p style='display:inline-block;'>
-    - <img src="https://static.vecteezy.com/system/resources/thumbnails/025/732/716/small_2x/fiverr-logo-icon-online-platform-for-freelancers-free-vector.jpg" width="20px" height="20px"> Offering Freelancing services in Fiverr</p>
+    - <img src="https://static.vecteezy.com/system/resources/thumbnails/025/732/716/small_2x/fiverr-logo-icon-online-platform-for-freelancers-free-vector.jpg" width="20px" height="20px"> IT Assitant Intern at NHMC </p>
 <p style='display:inline-block;'>
     - <img src="https://cdn4.iconfinder.com/data/icons/circle-web-and-programming/512/Website_and_programming_21-512.png" width="20px" height="20px"> Proficient in Front-end Web Development</p>
 <p>- 👩🏻‍💻 Proficient in Python, C++, SQL, HTML, CSS, Javascript, Azure Cloud Computing, Operating Systems (MacOS, Windows), Data Structures and Algorithms, Computer Networking, API Management and CS Fundamentals.</p>
