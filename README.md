@@ -1,6 +1,7 @@
 <h1 align='center'> Hey there, I’m Meghana 👋🏻 </h1>
 <h3> About me: </h3>
-👋 Hi, I'm Meghana — a Computer Engineering student at the University of Waterloo with a passion for turning ideas into impactful tech solutions.
+
+I a Computer Engineering student at the University of Waterloo with a passion for turning ideas into impactful tech solutions.
 
 With 2 years of hands-on programming experience, I thrive in collaborative environments where curiosity, creativity, and continuous learning drive innovation. I’m proficient in Python, C++, JavaScript, and SQL, and bring strong technical skills in front-end web development, Azure cloud computing, and cross-platform operating systems (macOS & Windows).
 
